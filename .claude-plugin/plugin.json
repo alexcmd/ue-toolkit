@@ -1,0 +1,18 @@
+{
+  "name": "ue-toolkit",
+  "displayName": "Unreal Engine Toolkit",
+  "description": "UE development toolkit: MCP tools for direct editor automation (ue-bridge), API search index (15K+ types), plus skills for C++ coding, build/package, and subagent delegation.",
+  "version": "2.0.0",
+  "author": "Aleksei Priakhin",
+  "skills": [
+    "ue-scripter",
+    "ue-editor",
+    "ue-coder",
+    "ue-runner",
+    "ue-builder",
+    "ue-agent"
+  ],
+  "dependencies": {
+    "unreal-plugin": "AgentBridge HTTP plugin (ue-plugin/AgentBridge/) must be enabled in the UE project"
+  }
+}
